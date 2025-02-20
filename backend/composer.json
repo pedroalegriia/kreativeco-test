@@ -1,0 +1,17 @@
+{
+    "name": "pedroalegria/kreativeco-prueba",
+    "autoload": {
+        "psr-4": {
+            "Pedroalegria\\KreativecoPrueba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Alegria",
+            "email": "pedro.alegriia@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
